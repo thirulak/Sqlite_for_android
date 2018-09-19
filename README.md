@@ -4,5 +4,6 @@
 ## Steps :
 1. Define a schema & a contract 
 2. Create a database using SQL HELPER
-* ** Why we need Contract class**
-* - [x] 
+
+** Why we need Contract class**
+- [x] 
