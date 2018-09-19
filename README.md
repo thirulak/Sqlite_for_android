@@ -7,4 +7,4 @@
 
 **Why we need Contract class**
 
- - [ ] 
+ * [ ] 
