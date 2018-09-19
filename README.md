@@ -6,4 +6,5 @@
 2. Create a database using SQL HELPER
 
 **Why we need Contract class**
--[x] 
+
+- [x] 
