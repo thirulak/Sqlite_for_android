@@ -6,6 +6,5 @@
 2. Create a database using SQL HELPER
 
 **Why we need Contract class**
-
- - [ ] we need contract class . 
- - [x]
+ 
+ - [x] To define constants used in the Database .
