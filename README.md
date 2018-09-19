@@ -7,5 +7,5 @@
 
 **Why we need Contract class**
 
- * [ ] 
- * [x]
+ - [ ] we need contract class . 
+ - [x]
