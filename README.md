@@ -5,8 +5,8 @@
 1. Define a schema & a contract 
 2. Create a database using SQL HELPER
 
-**Why we need Contract class**
+**Why we need Contract class** :
  
  - [x] To define constants used in the Database .
  - [x] To avoid spelling errors .
- - [x] To make the update easier .
+ - [x] Ease of updating schema .
