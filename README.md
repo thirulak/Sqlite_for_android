@@ -8,3 +8,4 @@
 **Why we need Contract class**
 
  * [ ] 
+ * [x]
