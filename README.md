@@ -8,3 +8,5 @@
 **Why we need Contract class**
  
  - [x] To define constants used in the Database .
+ - [x] To avoid spelling errors .
+ - [x] To make the update easier .
