@@ -27,5 +27,12 @@
  - [x] Gives a connection to the DB .
  - [x] Manages updating DB schema if version changes .
  
+ **How to implement SQLiteOpenHelper** :
+ 1. Create a class that extends from SQLiteOpenHelper
+ 2. Create constants for DBnames & DBversions
+ 3. Create a constructor
+ 4. Implement onCreate() method
+ 5. Implement onUpgrade() method
+ 
  
 
