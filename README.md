@@ -20,4 +20,12 @@
  - [x] Outer class .
  - [x] Inner class .
  - [x] String constants .
+ 
+ **Use of SQLiteOpenHelper** :
+ 
+ - [x] Create a sqliteDB .
+ - [x] Gives a connection to the DB .
+ - [x] Manages updating DB schema if version changes .
+ 
+ 
 
