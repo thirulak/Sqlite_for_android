@@ -8,6 +8,9 @@
 
 _Code reference_ :
 * https://github.com/codepath/android_guides/wiki/Local-Databases-with-SQLiteOpenHelper
+
+_Sql injection_ :
+https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 ## Steps :
 1. Define a schema & a contract 
 2. Create a database using SQL HELPER
