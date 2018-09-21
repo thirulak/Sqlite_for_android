@@ -42,4 +42,8 @@ _Code reference_ :
  - mDbHelper is an instance of SQLiteOpenHelper which will look for the Database , If a DB doesnot exist it will create a new DB using
  onCreate() method.
  
+ **Accessing the database from Android studio**
+![as](https://user-images.githubusercontent.com/36688218/45883758-a5a90e80-bdcf-11e8-8930-d2326a2fa05d.png)
+
+ 
 
