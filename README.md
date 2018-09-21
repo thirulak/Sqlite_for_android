@@ -49,8 +49,7 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
  - A cursor is an object that represents a bunch of rows in a database .
  https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase#query(java.lang.String,%20java.lang.String[],%20java.lang.String,%20java.lang.String[],%20java.lang.String,%20java.lang.String,%20java.lang.String)
  
- **Accessing database from Android studio** :
-![as](https://user-images.githubusercontent.com/36688218/45883758-a5a90e80-bdcf-11e8-8930-d2326a2fa05d.png)
+
 
  
 
