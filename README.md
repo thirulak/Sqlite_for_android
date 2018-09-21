@@ -34,5 +34,9 @@
  4. Implement onCreate() method
  5. Implement onUpgrade() method
  
+ **Getting a database connection**
+ - use SQLiteDatabase db = mDbHelper.getReadableDatabase();
+ - mDbHelper is an instance of SQLiteOpenHelper which will look for the Database , If a DB doesnot exist it will create a new DB using
+ onCreate() method.
  
 
