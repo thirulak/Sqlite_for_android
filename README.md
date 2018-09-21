@@ -5,6 +5,7 @@
 * https://developer.android.com/guide/topics/data/data-storage
 * https://en.wikipedia.org/wiki/SQL_injection
 * https://developer.android.com/reference/android/database/Cursor
+_Code reference_ :
 * https://github.com/codepath/android_guides/wiki/Local-Databases-with-SQLiteOpenHelper
 ## Steps :
 1. Define a schema & a contract 
