@@ -86,6 +86,12 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 **Use of Content URI** :
 - can point to a part of a database
 - can point to a file(text,images etc..)
+- In this content URI content://com.android.contacts/contacts/2
+   - content:// - refers to schema
+   - com.android.contacts - refers to Content Authority(Unique for each content provider)
+   - contacts - refers to Type of data (table name should be given here)
+   - 2 - refers to specific rows in the table(inorder to derive a single row)
+   
 
  
 
