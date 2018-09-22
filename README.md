@@ -60,6 +60,7 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 - [x] Inorder to eliminate the direct interaction of the UI with DB , we use content provider .
 - [x] Doesnot allow the invalid data to enter the database .
 - [x] Good abstraction layer between the data source & the UI code
+- [x] Works well with other android framework classes , For an instance:Activity manager
 
 * https://developer.android.com/guide/topics/providers/content-provider-basics
 
