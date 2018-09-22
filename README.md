@@ -8,6 +8,9 @@
 * https://developer.android.com/reference/android/content/ContentResolver
 * https://developer.android.com/guide/topics/providers/contacts-provider
 * https://developer.android.com/guide/topics/manifest/provider-element?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+* https://developer.android.com/guide/topics/providers/content-provider-creating#ContentURI
+* https://developer.android.com/reference/android/content/UriMatcher
+* https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html
 
 _Code reference_ :
 * https://github.com/codepath/android_guides/wiki/Local-Databases-with-SQLiteOpenHelper
