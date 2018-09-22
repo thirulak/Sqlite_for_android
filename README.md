@@ -6,6 +6,7 @@
 * https://en.wikipedia.org/wiki/SQL_injection
 * https://developer.android.com/reference/android/database/Cursor
 * https://developer.android.com/reference/android/content/ContentResolver
+* https://developer.android.com/guide/topics/providers/contacts-provider
 
 _Code reference_ :
 * https://github.com/codepath/android_guides/wiki/Local-Databases-with-SQLiteOpenHelper
@@ -70,6 +71,15 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 - It also checks the data and updates it
 - So the cursor loader works in conjuction with the listView & the cursor adapter
 - _Inorder to implement the Cursor loader we requires Content provider_
+
+**How does other app access database of an another app** :
+- The external app uses a Content URI to give a request to the Contacts provider of the required app
+
+**How does the Content URI matches with correct content provider** :
+- The content Resolver does this work
+  - The content URI(content://com.android.contacts/contacts/2) will be passed to the content Resolver 
+    - Based on the content authority (i.e: com.android.contacts) the content resolver will handle the data and send to ContactsProvider.
+* https://www.androiddesignpatterns.com/2012/06/content-resolvers-and-content-providers.html
 
  
 
