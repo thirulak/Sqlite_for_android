@@ -56,7 +56,8 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
  ![as](https://user-images.githubusercontent.com/36688218/45912428-ab8a0880-be3e-11e8-8000-0ccc5dadf445.png)
  
  **Use of Content provider** :
-- Inorder to eliminate the direct interaction of the UI with DB , we use content provider .
+- [x] Inorder to eliminate the direct interaction of the UI with DB , we use content provider .
+- [x] Doesnot allow the invalid data to enter the database .
 * https://developer.android.com/guide/topics/providers/content-provider-basics
 
  
