@@ -20,6 +20,8 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 3. Add a cursor to it
 4. Use content provider
 5. Use cursor loader
+6. Use content URI
+7. Use URI matcher
 
 **Why we need Contract class** :
  
