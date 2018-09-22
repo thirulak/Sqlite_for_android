@@ -14,6 +14,8 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 ## Steps :
 1. Define a schema & a contract 
 2. Create a database using SQL HELPER
+3. Add a cursor to it
+4. Use content provider
 
 **Why we need Contract class** :
  
@@ -52,6 +54,10 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
  **Acessing sqlite3 database in Androidstudio** :
  
  ![as](https://user-images.githubusercontent.com/36688218/45912428-ab8a0880-be3e-11e8-8000-0ccc5dadf445.png)
+ 
+ **Use of Content provider** :
+- Inorder to eliminate the direct interaction of the UI with DB , we use content provider .
+* https://developer.android.com/guide/topics/providers/content-provider-basics
 
  
 
