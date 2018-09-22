@@ -50,6 +50,7 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
  https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase#query(java.lang.String,%20java.lang.String[],%20java.lang.String,%20java.lang.String[],%20java.lang.String,%20java.lang.String,%20java.lang.String)
  
  **Acessing sqlite3 database in Androidstudio** :
+ 
  ![as](https://user-images.githubusercontent.com/36688218/45912428-ab8a0880-be3e-11e8-8000-0ccc5dadf445.png)
 
  
