@@ -16,6 +16,7 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 2. Create a database using SQL HELPER
 3. Add a cursor to it
 4. Use content provider
+5. Use cursor loader
 
 **Why we need Contract class** :
  
@@ -58,7 +59,15 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
  **Use of Content provider** :
 - [x] Inorder to eliminate the direct interaction of the UI with DB , we use content provider .
 - [x] Doesnot allow the invalid data to enter the database .
+- [x] Good abstraction layer between the data source & the UI code
+
 * https://developer.android.com/guide/topics/providers/content-provider-basics
+
+**Use of Cursor loader** :
+- The cursor loader will check when any new data is added or removed in the list to keep the list updated
+- It also checks the data and updates it
+- So the cursor loader works in conjuction with the listView & the cursor adapter
+- _Inorder to implement the Cursor loader we requires Content provider_
 
  
 
