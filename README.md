@@ -97,6 +97,13 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
    - contacts - refers to Type of data (table name should be given here)
    - 2 - refers to specific rows in the table(inorder to derive a single row)
    
+**Why URI matcher is needed** :
+- Helps us to ensure that the Contentprovider doesn't try to handle unexpected content URIs
+
+**Steps to create a URI matcher** :
+- Setup the URI matcher with the URI patterns your content provider will accept & assign each pattern an integer code
+- Call UriMatcher.match(uri) and pass in a uri , which will return the corresponding integer code (if matched)
+   
 
  
 
