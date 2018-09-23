@@ -116,6 +116,8 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 
 **Implement this [method] to handle requests for the MIME type** : 
 - The returned MIME type should start with “vnd.android.cursor.item” for a single record, or “vnd.android.cursor.dir/” for multiple items.
+- Step 1: Declare MIME Type constants in Contract.java file
+- Step 2: Implement ContentProvider getType() method
 
 
    
