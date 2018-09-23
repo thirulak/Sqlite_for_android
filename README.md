@@ -26,6 +26,7 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 6. Use content URI
 7. Use URI matcher
 8. Sanity checking
+9. Implement contentprovider[MIME Type]
 
 **Why we need Contract class** :
  
@@ -107,6 +108,15 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 
 **Sanity checking** :
 - https://developer.android.com/reference/android/content/ContentValues?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+
+**Why to declare MIME Type** :
+- the getType(Uri uri) method. The purpose of this method is to return a String that describes the type of the data stored at the input Uri. This String is known as the MIME type, which can also be referred to as content type.
+- The Android system will check the MIME type of that URI to determine which app component on the device can best handle your request.
+
+**Implement this [method] to handle requests for the MIME type** : 
+- The returned MIME type should start with “vnd.android.cursor.item” for a single record, or “vnd.android.cursor.dir/” for multiple items.
+
+
    
 
  
