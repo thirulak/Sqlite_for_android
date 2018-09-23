@@ -25,6 +25,7 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 5. Use cursor loader
 6. Use content URI
 7. Use URI matcher
+8. Sanity checking
 
 **Why we need Contract class** :
  
@@ -103,6 +104,9 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 **Steps to create a URI matcher** :
 - Setup the URI matcher with the URI patterns your content provider will accept & assign each pattern an integer code
 - Call UriMatcher.match(uri) and pass in a uri , which will return the corresponding integer code (if matched)
+
+**Sanity checking** :
+- https://developer.android.com/reference/android/content/ContentValues?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
    
 
  
