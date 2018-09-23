@@ -112,6 +112,7 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 **Why to declare MIME Type** :
 - the getType(Uri uri) method. The purpose of this method is to return a String that describes the type of the data stored at the input Uri. This String is known as the MIME type, which can also be referred to as content type.
 - The Android system will check the MIME type of that URI to determine which app component on the device can best handle your request.
+- https://stackoverflow.com/questions/7157129/what-is-the-mimetype-attribute-in-data-used-for
 
 **Implement this [method] to handle requests for the MIME type** : 
 - The returned MIME type should start with “vnd.android.cursor.item” for a single record, or “vnd.android.cursor.dir/” for multiple items.
