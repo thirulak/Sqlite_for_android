@@ -119,6 +119,9 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 - Step 1: Declare MIME Type constants in Contract.java file
 - Step 2: Implement ContentProvider getType() method
 
+**Related to UI** :
+- Populating a listview with a cursor adapter 
+- check this :https://github.com/codepath/android_guides/wiki/Populating-a-ListView-with-a-CursorAdapter
 
    
 
