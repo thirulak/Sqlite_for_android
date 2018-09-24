@@ -79,6 +79,8 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 - It also checks the data and updates it
 - So the cursor loader works in conjuction with the listView & the cursor adapter
 - Loader that queries the ContentResolver with a specific URI & returns a Cursor
+- Loads data on a background thread because reading & writing to a database can be an expensive operation
+- works well with content provider because a loader is tied to a URI
 - _Inorder to implement the Cursor loader we requires Content provider_
 
 **How does other app access database of an another app** :
