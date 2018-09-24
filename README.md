@@ -83,6 +83,12 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 - works well with content provider because a loader is tied to a URI
 - _Inorder to implement the Cursor loader we requires Content provider_
 
+**Activities to be done to implement a Cursor loader** :
+1.onCreate()[getLoaderManager().initLoader()]
+2.onCreateLoader()
+3.onLoadFinished()[use swapCursor(cursor) in this method]
+4.onLoaderReset()[use swapCursor(null) in this method]
+
 **How does other app access database of an another app** :
 - The external app uses a Content URI to give a request to the Contacts provider of the required app
 
