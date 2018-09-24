@@ -78,6 +78,7 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 - The cursor loader will check when any new data is added or removed in the list to keep the list updated
 - It also checks the data and updates it
 - So the cursor loader works in conjuction with the listView & the cursor adapter
+- Loader that queries the ContentResolver with a specific URI & returns a Cursor
 - _Inorder to implement the Cursor loader we requires Content provider_
 
 **How does other app access database of an another app** :
