@@ -84,10 +84,10 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 - _Inorder to implement the Cursor loader we requires Content provider_
 
 **Activities to be done to implement a Cursor loader** :
-1.onCreate()[getLoaderManager().initLoader()]
-2.onCreateLoader()
-3.onLoadFinished()[use swapCursor(cursor) in this method]
-4.onLoaderReset()[use swapCursor(null) in this method]
+1. onCreate()[getLoaderManager().initLoader()]
+2. onCreateLoader()
+3. onLoadFinished()[use swapCursor(cursor) in this method]
+4. onLoaderReset()[use swapCursor(null) in this method]
 - https://developer.android.com/reference/android/widget/CursorAdapter?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
 
 **How does other app access database of an another app** :
