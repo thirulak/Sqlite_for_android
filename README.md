@@ -99,6 +99,7 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
     - Based on the content authority (i.e: com.android.contacts) the content resolver will handle the data and send to ContactsProvider.
      - To allow the external apps to access the database we should give android:exported="true" in the manifest file
 * https://www.androiddesignpatterns.com/2012/06/content-resolvers-and-content-providers.html
+* https://www.grokkingandroid.com/android-tutorial-writing-your-own-content-provider/
 
 **Use of Content URI** :
 - can point to a part of a database
