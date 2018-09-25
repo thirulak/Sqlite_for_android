@@ -63,9 +63,9 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
  https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase#query(java.lang.String,%20java.lang.String[],%20java.lang.String,%20java.lang.String[],%20java.lang.String,%20java.lang.String,%20java.lang.String)
  
  **Acessing sqlite3 database in Androidstudio** :
- 
+ ![as1](https://user-images.githubusercontent.com/36688218/45996944-a2f23600-c0bb-11e8-9d86-50b6a60ba936.png)
 
- **Use of Content provider** :
+  **Use of Content provider** :
 - [x] Inorder to eliminate the direct interaction of the UI with DB , we use content provider .
 - [x] Doesnot allow the invalid data to enter the database .
 - [x] Good abstraction layer between the data source & the UI code
