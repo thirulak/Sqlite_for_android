@@ -134,7 +134,7 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 - check this :https://github.com/codepath/android_guides/wiki/Populating-a-ListView-with-a-CursorAdapter
 
 **class or interface expected**:
-- when there is an error as class or interface expected it can be cleared by removing the curly brace on where it is showing
+- when there is an error as class or interface expected it can be cleared by removing the curly brace on where it is showing a hint as an error
 
    
 
