@@ -1,4 +1,6 @@
 # Sqlite_for _android
+
+- **Web links :**
 * https://developer.android.com/training/data-storage/sqlite#java
 * https://developer.android.com/training/data-storage/room/
 * https://stackoverflow.com/questions/20291307/correct-way-to-trim-a-string-in-java
