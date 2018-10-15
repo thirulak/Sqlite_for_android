@@ -138,6 +138,10 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 **class or interface expected**:
 - when there is an error as class or interface expected it can be cleared by removing the curly brace on where it is showing a hint as an error
 
+**Projects done using Sqlite**:
+- https://github.com/thirulak/Project8
+- https://github.com/thirulak/Project9
+
    
 
  
