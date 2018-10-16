@@ -1,4 +1,4 @@
-# Sqlite_for _android
+# Sqlite_for _android : Contains Steps , solution for Errors that I faced while implementing in projects
 
 ## Steps :
 1. Define a schema & a contract 
