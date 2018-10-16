@@ -1,22 +1,5 @@
 # Sqlite_for _android
 
-- **Web links :**
-* https://developer.android.com/training/data-storage/sqlite#java
-* https://developer.android.com/training/data-storage/room/
-* https://stackoverflow.com/questions/20291307/correct-way-to-trim-a-string-in-java
-* https://developer.android.com/guide/topics/data/data-storage
-* https://en.wikipedia.org/wiki/SQL_injection
-* https://developer.android.com/reference/android/database/Cursor
-* https://developer.android.com/reference/android/content/ContentResolver
-* https://developer.android.com/guide/topics/providers/contacts-provider
-* https://developer.android.com/guide/topics/manifest/provider-element?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
-* https://developer.android.com/guide/topics/providers/content-provider-creating#ContentURI
-* https://developer.android.com/reference/android/content/UriMatcher
-* https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html
-
-_Code reference_ :
-* https://github.com/codepath/android_guides/wiki/Local-Databases-with-SQLiteOpenHelper
-
 _Sql injection_ :
 https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 ## Steps :
@@ -141,6 +124,24 @@ https://www.netsparker.com/blog/web-security/sql-injection-vulnerability/
 **Projects done using Sqlite**:
 - https://github.com/thirulak/Project8
 - https://github.com/thirulak/Project9
+
+- **Web links :**
+* https://developer.android.com/training/data-storage/sqlite#java
+* https://developer.android.com/training/data-storage/room/
+* https://stackoverflow.com/questions/20291307/correct-way-to-trim-a-string-in-java
+* https://developer.android.com/guide/topics/data/data-storage
+* https://en.wikipedia.org/wiki/SQL_injection
+* https://developer.android.com/reference/android/database/Cursor
+* https://developer.android.com/reference/android/content/ContentResolver
+* https://developer.android.com/guide/topics/providers/contacts-provider
+* https://developer.android.com/guide/topics/manifest/provider-element?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+* https://developer.android.com/guide/topics/providers/content-provider-creating#ContentURI
+* https://developer.android.com/reference/android/content/UriMatcher
+* https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html
+
+_Code reference_ :
+* https://github.com/codepath/android_guides/wiki/Local-Databases-with-SQLiteOpenHelper
+
 
    
 
