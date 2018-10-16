@@ -1,4 +1,4 @@
-# Sqlite_for _android : Contains Steps , solution for Errors that I faced while implementing in projects
+# Sqlite_for _android : Contains Steps , solution for Errors that I faced while implementing it in projects
 
 ## Steps :
 1. Define a schema & a contract 
@@ -116,7 +116,7 @@
 - Populating a listview with a cursor adapter 
 - check this :https://github.com/codepath/android_guides/wiki/Populating-a-ListView-with-a-CursorAdapter
 
-**class or interface expected**:
+**Error:class or interface expected**:
 - when there is an error as class or interface expected it can be cleared by removing the curly brace on where it is showing a hint as an error
 
 **Projects done using Sqlite**:
