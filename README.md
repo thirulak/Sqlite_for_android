@@ -7,6 +7,7 @@
 - Video Link : https://www.youtube.com/watch?v=zOJWL3oXDO8
 
 ### Procedure :
+
 1. Define a schema & a contract 
 2. Create a database using SQL HELPER
 3. Add a cursor to it
