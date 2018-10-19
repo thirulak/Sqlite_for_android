@@ -5,6 +5,7 @@
 - Once you've downloaded this zip, open up Windows explorer and navigate to your C:\ drive. Once there, create a folder called sqlite. Copy the .zip file you just downloaded into this folder and then extract its contents.
 - Once you've done that, you'll need to add C:\sqlite to your system's PATH environment variable. Finally, you'll need to open your command prompt program and type in sqlite3, then hit enter.
 - Video Link : https://www.youtube.com/watch?v=zOJWL3oXDO8
+
 ### Procedure :
 1. Define a schema & a contract 
 2. Create a database using SQL HELPER
