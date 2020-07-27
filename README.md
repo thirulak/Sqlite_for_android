@@ -130,7 +130,7 @@
 - https://github.com/thirulak/Project8
 - https://github.com/thirulak/Project9
 
-- **Web links :**
+**Web links :**
 * https://developer.android.com/training/data-storage/sqlite#java
 * https://developer.android.com/training/data-storage/room/
 * https://stackoverflow.com/questions/20291307/correct-way-to-trim-a-string-in-java
