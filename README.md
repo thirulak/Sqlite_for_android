@@ -20,21 +20,21 @@
 
 **Why we need Contract class** :
  
- - [x] To define constants used in the Database .
- - [x] To avoid spelling errors .
- - [x] Ease of updating schema .
+ - [x] To define constants used in the Database.
+ - [x] To avoid spelling errors.
+ - [x] Ease of updating schema.
  
 **Contract class contains** :
 
- - [x] Outer class .
- - [x] Inner class .
- - [x] String constants .
+ - [x] Outer class.
+ - [x] Inner class.
+ - [x] String constants.
  
  **Use of SQLiteOpenHelper** :
  
- - [x] Create a sqliteDB .
- - [x] Gives a connection to the DB .
- - [x] Manages updating DB schema if version changes .
+ - [x] Create a sqliteDB.
+ - [x] Gives a connection to the DB.
+ - [x] Manages updating DB schema if version changes.
  
  **How to implement SQLiteOpenHelper** :
  1. Create a class that extends from SQLiteOpenHelper
